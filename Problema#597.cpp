@@ -1,3 +1,13 @@
+// Din fisierul date.in se citeste un numar natural k si apoi de pe a doua linie numere intregi. Contruiti o lista liniara simplu inlantuita care sa contina numerele intregi citite in ordinea din fisier.
+// Permutati lista cu k pozitii spre stanga si afisati valorile din lista.
+// Indicatie: se vor scrie si folosi functii pentru adaugarea unei valori la sfarsitul listei si pentru stergerea primului nod al listei si vor fi folosite pentru permuarea ceruta.
+// Exemplu:
+// date.in
+// 3
+// 1 2 3 4
+// date.out
+// 4 1 2 3
+
 #include <fstream>
 #include <iostream>
 using namespace std;
